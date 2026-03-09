@@ -1,47 +1,60 @@
+# 🎮 Projeto GTA
+
+Landing page temática inspirada no universo de **Grand Theft Auto V / GTA Online**, focada em apresentar o jogo, suas plataformas disponíveis e uma chamada para compra através de um layout moderno e responsivo.
+
 ![Imagem de capa](src/img/gta.jpg)
 
-# Projeto GTA
+---
 
-**Descrição:**  
-O Projeto GTA é uma landing page temática inspirada no universo de **Grand Theft Auto V / GTA Online**, voltada para exibição visual de plataformas disponíveis, recursos do jogo e chamada para compra. O foco é apresentar um layout moderno, responsivo e envolvente que destaque o estilo do game.
+## 🚀 Funcionalidades
 
-## Índice
-* [Visualização](#visualização)
-* [Funcionalidades](#funcionalidades)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Autor](#autor)
-* [Licença](#licença)
+* 🎮 Layout inspirado no estilo visual da franquia GTA
+* 📱 Design responsivo para diferentes dispositivos
+* 🖼️ Exibição de imagens do **GTA V** e **GTA Online**
+* 🕹️ Seção mostrando plataformas disponíveis (PlayStation, Xbox e PC)
+* 🧭 Navegação simples com menu principal
 
-## Visualização
+---
 
-A página possui:
+## 🛠️ Tecnologias utilizadas
 
-- Imagens dos jogos (GTA V, GTA Online) e logos das plataformas  
-- Seção “Já disponíveis para Playstation 5 e Xbox Series X|S”  
-- Botão “Compre já”  
-- Seção destacando “Grand Theft Auto V”, mencionando que inclui o modo história + GTA Online, com opções de plataforma  
+![HTML](https://img.shields.io/badge/HTML5-markup-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-style-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-logic-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-## Funcionalidades
+## 📦 Instalação
 
-* Layout responsivo e temas visuais inspirados em GTA  
-* Apresentação de plataformas em que o jogo está disponível (PlayStation, Xbox, PC, etc.)  
-* Botão de ação (“Compre já”) para chamar o usuário à ação  
-* Navegação simples: Home, Comprar, Suporte  
+Clone o repositório:
 
-## Tecnologias Utilizadas
+```bash
+git clone https://github.com/IgorVernequeDev/ProjetoGTA.git
+```
 
-#### Front-end:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+Entre na pasta do projeto:
 
-#### Hospedagem:
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+```bash
+cd ProjetoGTA
+```
 
-## Autor
+Abra o arquivo no navegador:
 
-* Igor de Almeida Verneque — [GitHub](https://github.com/IgorVernequeDev) — igorverneque5@gmail.com  
+```bash
+index.html
+```
 
-## Licença
+Ou utilize uma extensão como **Live Server** no VS Code.
 
-Este projeto está licenciado sob a Licença MIT — veja o arquivo **LICENSE** para mais detalhes.
+---
+
+## 🎯 Objetivo do projeto
+
+* Estruturação de páginas web com HTML
+* Estilização moderna com CSS
+* Interatividade básica com JavaScript
+* Desenvolvimento de landing pages responsivas
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Igor Verneque**
